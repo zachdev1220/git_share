@@ -3,3 +3,5 @@ RCHM20260621.rar filter=lfs diff=lfs merge=lfs -text
 20260705.rar filter=lfs diff=lfs merge=lfs -text
 apache_poi_pdfbox.zip filter=lfs diff=lfs merge=lfs -text
 7_5[[:space:]]research.rar filter=lfs diff=lfs merge=lfs -text
+antsdr.zip filter=lfs diff=lfs merge=lfs -text
+erims-docs.zip filter=lfs diff=lfs merge=lfs -text
